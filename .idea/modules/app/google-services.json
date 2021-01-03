@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944150984808",
+    "firebase_url": "https://mylabyrinth2-a05a4.firebaseio.com",
+    "project_id": "mylabyrinth2-a05a4",
+    "storage_bucket": "mylabyrinth2-a05a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944150984808:android:1190b98a7cef81cdfaa3dd",
+        "android_client_info": {
+          "package_name": "com.example.mylabyrinth2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944150984808-bfg3fepf4ouitk06clbb8r4p58hrmb0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mylabyrinth2",
+            "certificate_hash": "57e4a5faf68baf293de8e595a218fea61d205da3"
+          }
+        },
+        {
+          "client_id": "944150984808-jdl9p7cl2kv9jl1ihdd5r5sfkvnl4dii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwY_pzC_A32X_BwBDYg68IQuNTI1Q8vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944150984808-jdl9p7cl2kv9jl1ihdd5r5sfkvnl4dii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
